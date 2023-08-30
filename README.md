@@ -10,13 +10,13 @@ A backend for a social network made with Java
 Clone first
 
 ```bash
-  https://github.com/AndoKami/SocialNetBackend-java.git
+  https://github.com/AndoKami/Social_Media.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd ./SocialNetBackend-java
+  cd ./Social_Media
 ```
 
 ## How the MCD look like 
